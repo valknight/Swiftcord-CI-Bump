@@ -1,3 +1,5 @@
+hi :) i want to build this, but, am busy - so will let GA Actions do it by forking it and kicking off the post-commit actions
+
 <p align=center><image src="https://raw.githubusercontent.com/SwiftcordApp/.github/main/res/swiftcord_new_icon.png" height="256" /></p>
 
 <h1 align="center">Swiftcord</h1>
